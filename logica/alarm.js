@@ -6,7 +6,7 @@ Result example: "Time for bed after 10 seconds".
 * 1. Pedirle al usuario que coloque un mensaje
 * 2. Pedirle al usuario cuantos segundos
 * 3. Colocar el mensaje del usuario con su mensaje y del tiempo en forma de cronometro
-* n.Mostrar a tiempo real el cronometro de cuando finalizara el mensaje
+* 4. Volver a monstrar el mensaje en un alert una vez terminado el tiempo
 */
 
 function Alarm() {
